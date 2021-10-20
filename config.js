@@ -1,7 +1,7 @@
 const CONFIG = {
     titleWeb: "Sinh nhật vui vẻ nè đĩ điên",
     introTitle: 'vu thanh ngan',
-    introDesc: `click đi ạ`,
+    introDesc: 'click cái này đi ạ',
     btnIntro: 'đúng rồi click cái này này',
     title: 'chưa đến đoạn ỉa chảy đâu',
     desc: 'ừ chưa đến ',
