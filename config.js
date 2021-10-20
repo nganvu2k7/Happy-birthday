@@ -1,20 +1,17 @@
 const CONFIG = {
-    titleWeb: "Tiêu đề web",
-    introTitle: 'Tên người yêu bạn',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Thích lắm <33',
-    btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
-    btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    titleWeb: "Sinh nhật vui vẻ nè đĩ điên",
+    introTitle: 'vu thanh ngan',
+    introDesc: `click đi ạ`,
+    btnIntro: 'đúng rồi click cái này này',
+    title: 'chưa đến đoạn ỉa chảy đâu',
+    desc: 'ừ chưa đến ',
+    btnYes: 'vãi ò ok',
+    btnNo: 'ok vãi ò',
+    question: ':v trả lời dùm đừng bắt mình hỏi lại đến lần thứ 3',
+    btnReply: 'click tiếp đi ạ',
+    reply: 'mình sẽ trả lời thẳng thắn một lần :v xong kệ đấy còn phải học nữa bạn thịnh ạ',
+    mess: 'ừ lúc nào mày cũng lo mà nhỉ',
+    messDesc: ':v ừ thì tao viết thừa cái này.',
+    btnAccept: 'tao không tìm ra cách lấy link mess nê là chịu khó bấm nhắn tin nhé',
+    messLink: 'https://www.facebook.com/profile.php?id=100027509229908' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
